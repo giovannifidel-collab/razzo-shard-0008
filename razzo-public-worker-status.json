@@ -1,6 +1,6 @@
 {
   "schema": "razzo.public-worker-status.v2",
-  "state": "started",
+  "state": "completed",
   "workflowRunId": "30960436947",
   "cycleId": "razzo-9fc39d8816c4",
   "generationId": "razzo-9fc39d8816c4:g1",
@@ -11,8 +11,8 @@
   "title": "Project Giovanni repository object integrity",
   "kind": "integrity",
   "exactInputSha": "0cec483667809d44e72f8e4e514f46cd29399379",
-  "observedSha": null,
-  "durationSeconds": null,
+  "observedSha": "0cec483667809d44e72f8e4e514f46cd29399379",
+  "durationSeconds": 2.296,
   "error": null,
-  "updatedEpoch": 1785886462.7995088
+  "updatedEpoch": 1785886466.6955783
 }
