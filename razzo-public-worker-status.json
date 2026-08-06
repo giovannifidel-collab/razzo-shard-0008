@@ -1,6 +1,6 @@
 {
   "schema": "razzo.public-worker-status.v2",
-  "state": "started",
+  "state": "completed",
   "workflowRunId": "31114301752",
   "cycleId": "razzo-d2018d381336",
   "generationId": "razzo-d2018d381336:g1",
@@ -11,8 +11,8 @@
   "title": "Implement and verify one bounded authenticated upload that persists metadata and object reference across restart and a new session.",
   "kind": "macrocycle-closure",
   "exactInputSha": "b99fd32f296cd323ffd8ad59bf0e335d20fcae73",
-  "observedSha": null,
-  "durationSeconds": null,
+  "observedSha": "b99fd32f296cd323ffd8ad59bf0e335d20fcae73",
+  "durationSeconds": 15.269,
   "error": null,
-  "updatedEpoch": 1786028832.976747
+  "updatedEpoch": 1786028849.5297587
 }
