@@ -1,18 +1,18 @@
 {
   "schema": "razzo.public-worker-status.v2",
-  "state": "completed",
-  "workflowRunId": "30960436947",
-  "cycleId": "razzo-9fc39d8816c4",
-  "generationId": "razzo-9fc39d8816c4:g1",
-  "workItemId": "06abc43ae32747641ef1a855",
+  "state": "started",
+  "workflowRunId": "31106686421",
+  "cycleId": "razzo-97d202b8af66",
+  "generationId": "razzo-97d202b8af66:g1",
+  "workItemId": "02e04fe32303db32de5f0462",
   "shard": "razzo-shard-0008",
   "projectId": "project-giovanni",
   "repository": "giovannifidel-collab/project-giovanni",
   "title": "Project Giovanni repository object integrity",
   "kind": "integrity",
-  "exactInputSha": "0cec483667809d44e72f8e4e514f46cd29399379",
-  "observedSha": "0cec483667809d44e72f8e4e514f46cd29399379",
-  "durationSeconds": 2.296,
+  "exactInputSha": "c83b962268abe4586731bb96ff0777cdaca754fd",
+  "observedSha": null,
+  "durationSeconds": null,
   "error": null,
-  "updatedEpoch": 1785886466.6955783
+  "updatedEpoch": 1786023367.6928298
 }
