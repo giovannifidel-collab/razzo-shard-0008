@@ -1,18 +1,18 @@
 {
   "schema": "razzo.public-worker-status.v2",
-  "state": "completed",
-  "workflowRunId": "31110573189",
-  "cycleId": "razzo-ccbb314bbe3d",
-  "generationId": "razzo-ccbb314bbe3d:g1",
-  "workItemId": "ddc744cf4e999d87d0b22bbe",
+  "state": "started",
+  "workflowRunId": "31112648814",
+  "cycleId": "razzo-061f1eca2be5",
+  "generationId": "razzo-061f1eca2be5:g1",
+  "workItemId": "be4257b2da9bcb8ca022d8b2",
   "shard": "razzo-shard-0008",
   "projectId": "family-cloud",
   "repository": "giovannifidel-collab/family-cloud",
   "title": "Implement and verify one bounded authenticated upload that persists metadata and object reference across restart and a new session.",
   "kind": "macrocycle-closure",
   "exactInputSha": "b99fd32f296cd323ffd8ad59bf0e335d20fcae73",
-  "observedSha": "b99fd32f296cd323ffd8ad59bf0e335d20fcae73",
-  "durationSeconds": 22.279,
+  "observedSha": null,
+  "durationSeconds": null,
   "error": null,
-  "updatedEpoch": 1786026234.2408962
+  "updatedEpoch": 1786027693.628161
 }
